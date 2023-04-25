@@ -42,4 +42,22 @@
 
   ---
   
+### :hammer_and_wrench: Languages and Tools :
   
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/mongodb" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
+  <img src="https://drive.google.com/file/d/1Daum0SsxR97b1rt8fspzxtapBq8WpkFN/view?usp=share_link" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
