@@ -11,7 +11,7 @@
   </a>
   <a href="https://www.facebook.com/n.boravlev/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-   <a href="https://www.facebook.com/n.boravlev/">
+   <a href="https://www.upwork.com/freelancers/~01de68ece500ccbb38">
    <img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
   </a>
 </div>
