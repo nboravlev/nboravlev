@@ -36,7 +36,7 @@
 
 - :slot_machine: Proficient in gambling analytics and security.
 
-- :game_die: Expert in Theory of Probability and Statistic.
+- :game_die: Expert in Theory of Probabilities and Statistic.
 
 - :mountain_snow: Spend my free time in the mountains climbing and snowboarding.
 
