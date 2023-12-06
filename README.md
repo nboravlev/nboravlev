@@ -32,7 +32,7 @@
   ### 📌 About Me :
   I am a Data Analyst and Snowboarder <img src="https://media.giphy.com/media/VI2UC13hwWin1MIfmi/giphy.gif" width="30"> from the Earth.
   
-- :man_technologist: Retrieving, processing ang visualizing the data from different sources.
+- :man_technologist: Retrieving, processing ang visualizing data from different sources.
 
 - :slot_machine: Proficient in gambling analytics and security.
 
